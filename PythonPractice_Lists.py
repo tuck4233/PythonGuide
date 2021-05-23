@@ -41,7 +41,4 @@ friends.sort() # -This will sort the list alphebetically or accending order-
 # -You can copy a lists-
 friends2 = friends.copy() # -This would create a new lists that is a copy of friends-
 
-letters = ['a', 'b', 'c']
-
-print(letters)
   
